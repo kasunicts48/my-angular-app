@@ -1,0 +1,11 @@
+p {
+  font-size: 22px;
+}
+
+.active {
+  background-color: violet;
+}
+
+.no-active {
+  background-color: blueviolet;
+}
